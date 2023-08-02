@@ -1,9 +1,9 @@
 ### Hi!
 #### I'm benjae (or benja if you want), i'm an idiot from south america that does idiot stuff (if i want (like every 2 months or something like that tho))
 
-- 😔 I sadly like touhou
-- 🔥 i also know the basics of like 3 langs (python, rust {which i forgot} and c# {which i'm also about to forget})
-- 🐦 i made some stuff on css/html, too scared to learn js
+- 🔥 i also know the basics of like 3 langs (python, rust {which i forgot😔} and c# {which i'm also about to forget})
+- 🐦 i also know some on css/html (at least the needed to make a basic startpage for firefox), too scared to learn js
+- *knowing = being able to actually do some stuff (i still have to search tutorials for almost everything)
 
 [![spotify](https://api.statusbadges.me/badge/spotify/644655968969293826)](https://api.statusbadges.me/openspotify/644655968969293826) <- i don't know why would you ask for this but ok
 

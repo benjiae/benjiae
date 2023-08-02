@@ -1,5 +1,5 @@
 ### Hi!
-#### I'm benjae (or benja if you want), i'm an idiot from south america that does idiot stuff (if i want (like every 2 months or something like that tho))
+#### I'm benjae (or benja if you want), i'm an idiot from south america that does dumb stuff (if i want (like every 2 months or something like that tho))
 
 - 🔥 i also know the basics of like 3 langs (python, rust {which i forgot😔} and c# {which i'm also about to forget})
 - 🐦 i also know some on css/html (at least the needed to make a basic startpage for firefox), too scared to learn js

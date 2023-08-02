@@ -5,7 +5,7 @@
 - 🔥 i also know the basics of like 3 langs (python, rust {which i forgot} and c# {which i'm also about to forget})
 - 🐦 i made some stuff on css/html, too scared to learn js
 
-[![spotify](https://api.statusbadges.me/badge/spotify/644655968969293826)](https://api.statusbadges.me/openspotify/644655968969293826)
+[![spotify](https://api.statusbadges.me/badge/spotify/644655968969293826)](https://api.statusbadges.me/openspotify/644655968969293826) <- i don't know why would you ask for this but ok
 
 <!--
 **benjiae/benjiae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

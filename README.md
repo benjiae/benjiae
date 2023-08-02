@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi!
+#### I'm benjae (or benja if you want), i'm an idiot from south america that does idiot stuff (if i want (like every 2 months or something like that tho))
+
+- I sadly like touhou
+- I also sadly like gd
+- also there's like a [spreadsheet with a bit more stuff about me](https://docs.google.com/spreadsheets/d/1dlWXUSb-TESwcc66Uvl-F6jReecCc9hmg4QbJVgkaaY/edit?usp=sharing)
+
+[![spotify](https://api.statusbadges.me/badge/spotify/644655968969293826)](https://api.statusbadges.me/openspotify/644655968969293826)
 
 <!--
 **benjiae/benjiae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

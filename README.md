@@ -5,8 +5,6 @@
 - 🐦 i also know some on css/html (at least the needed to make a basic startpage for firefox), too scared to learn js
 - *knowing = being able to actually do some stuff (i still have to search tutorials for almost everything)
 
-[![spotify](https://api.statusbadges.me/badge/spotify/644655968969293826)](https://api.statusbadges.me/openspotify/644655968969293826) <- i don't know why would you ask for this but ok
-
 <!--
 **benjiae/benjiae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
